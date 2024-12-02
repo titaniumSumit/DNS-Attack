@@ -10,3 +10,17 @@
    ```bash
    git clone https://github.com/DNS-Attack/dns_poisoner.git
    cd dns_poisoner
+   ```
+2. Make it executable 
+   ```bash
+   chmod +x setup.sh
+   chmod +x dns_poisoner.sh
+   ```
+3. Run the setup script:
+   ```bash
+   ./setup.sh
+   ```
+4. Launch the DNS poisoner:
+   ```bash
+   ./dns_poisoner.sh
+   ```
