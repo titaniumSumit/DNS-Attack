@@ -10,4 +10,3 @@
    ```bash
    git clone https://github.com/DNS-Attack/dns_poisoner.git
    cd dns_poisoner
-```
